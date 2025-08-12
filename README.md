@@ -36,7 +36,7 @@ I created this game(partially following some tutorial somewhere)  initially crea
 
 ## Demo / Play
 - Local dev: see “Run locally” below  
-- (Optional) Itch.io build or GitHub Pages link here
+
 
 ## Tech Stack
 - React (functional components + hooks)
@@ -44,8 +44,19 @@ I created this game(partially following some tutorial somewhere)  initially crea
 - Plain CSS effects (no extra libs)
 
 
-## Setup
+## Clone & Run Locally
 
-### 1) Install
+### Prereqs
+- Node.js 20+ (recommended) and npm 10+
+- Git
+
+### 1) Clone the repo
+**HTTPS**
 ```bash
+git clone https://github.com/darylgallatin/Ancient-tic-tac-toe.git
+cd Ancient-tic-tac-toe
+
+
 npm install
+
+npm start
