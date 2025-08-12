@@ -1,5 +1,5 @@
 # Ancient Tic-Tac-Toe 🪨✨
-A darkly whimsical, React-based tic-tac-toe where X and O duel.
+A darkly whimsical, React-based tic-tac-toe where X and O duel for dominance.
 
 Giant Ancient Red and Blue mythical creatures battle it out on a decrepted colossus   tic-tac-toe board in the background for planetary dominance.  
 
