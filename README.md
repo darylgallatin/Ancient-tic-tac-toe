@@ -1,6 +1,7 @@
 # Ancient Tic-Tac-Toe 🪨✨
 A darkly whimsical, React-based tic-tac-toe where X and O duel on a vertical, ancient-looking board.  
 AI-assisted assets and some AI code assist, ambient audio, subtle dust-mote FX, and a shimmering title give it a tiny “mythic” vibe.
+I created this game(partially following some tutorial somewhere)  initially created earlier this year but changed it up some
 
 ![screenshot](./docs/screenshot.png) <!-- replace with your real path or remove -->
 
