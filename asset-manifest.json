@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Ancient-tic-tac-toe/static/css/main.5d698b67.css",
+    "main.js": "/Ancient-tic-tac-toe/static/js/main.00d7531a.js",
+    "static/media/doodle.mp3": "/Ancient-tic-tac-toe/static/media/doodle.bfb2c4321a17f27d5fd7.mp3",
+    "static/media/ticTac_Toe_background2.jpg": "/Ancient-tic-tac-toe/static/media/ticTac_Toe_background2.a1bafbc8dec0bf0087d3.jpg",
+    "static/media/message.ogg": "/Ancient-tic-tac-toe/static/media/message.43cc94705a55cb2a83fc.ogg",
+    "static/media/placementsound.ogg": "/Ancient-tic-tac-toe/static/media/placementsound.b10dd7ef9f44e8c2194e.ogg",
+    "static/media/lowRing.wav": "/Ancient-tic-tac-toe/static/media/lowRing.756786f1427d21bc3348.wav",
+    "static/media/Menu Confirm.mp3": "/Ancient-tic-tac-toe/static/media/Menu Confirm.d55a4a264590514c3e23.mp3",
+    "index.html": "/Ancient-tic-tac-toe/index.html",
+    "main.5d698b67.css.map": "/Ancient-tic-tac-toe/static/css/main.5d698b67.css.map",
+    "main.00d7531a.js.map": "/Ancient-tic-tac-toe/static/js/main.00d7531a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d698b67.css",
+    "static/js/main.00d7531a.js"
+  ]
+}
