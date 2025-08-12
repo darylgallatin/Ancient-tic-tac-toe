@@ -14,10 +14,11 @@ I created this game(partially following some tutorial somewhere)  initially crea
 
 <p align="center">
   <a href="https://darylgallatin.github.io/Ancient-tic-tac-toe/">
-    <img src="https://github.com/user-attachments/assets/1af65d18-7fc5-400b-a70c-c8866210ea6f"
+    <img src="https://github.com/user-attachments/assets/a53ed4a6-5b81-4f22-a6a2-625203147dda"
          alt="Ancient Tic-Tac-Toe screenshot" width="400">
   </a>
 </p>
+
 
 > Audio kicks in after your first click (autoplay policy). Best on desktop; mobile works too.
 
